@@ -29,13 +29,13 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
- <img src="https://github.com/ba-00001/FLIXTER-_V2_ANDROID_APP/blob/master/FLIXSTER_V2_ANDROID_APP_GIF.gif"   width="275px" alt="GIF 1">
+ <img src="https://github.com/ba-00001/bitfit_v1_android_app/blob/master/BITFIT_V2_ANDROID_APP_GIF.gif"   width="275px" alt="GIF 1">
 ## App Preview
 
 <!-- Single row of images with names -->
 <div align="center">
   <figure>
-    <img src="https://github.com/ba-00001/FLIXTER-_V2_ANDROID_APP/blob/master/FLIXSTER_V2_ANDROID_APP_IMAGE1.png" width="200" alt="Image 1">
+    <img src="https://github.com/ba-00001/bitfit_v1_android_app/blob/master/BITFIT_V2_ANDROID_APP_IMAGE1.png" width="200" alt="Image 1">
     <figcaption> App 1</figcaption>
   </figure>
     </div>
